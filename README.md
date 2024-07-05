@@ -5,7 +5,6 @@ with spring, hibernate, HTML and CSS.
 1. [Installation](#Installation)
 2. [Usage](#Usage)
 3. [How to Use](#How-to-Use)
-6. [Contact](#contact)
 
 ## Installation
 
